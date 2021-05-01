@@ -1,0 +1,16 @@
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\bin\Debug\net5.0\Prime.exe
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\bin\Debug\net5.0\Prime.deps.json
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\bin\Debug\net5.0\Prime.runtimeconfig.json
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\bin\Debug\net5.0\Prime.runtimeconfig.dev.json
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\bin\Debug\net5.0\Prime.dll
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\bin\Debug\net5.0\ref\Prime.dll
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\bin\Debug\net5.0\Prime.pdb
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.csprojAssemblyReference.cache
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.AssemblyInfoInputs.cache
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.AssemblyInfo.cs
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.dll
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\ref\Prime.dll
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.pdb
+C:\Users\Duck\Documents\MEGA\Projects\Console\Prime - Series\Prime\obj\Debug\net5.0\Prime.genruntimeconfig.cache
